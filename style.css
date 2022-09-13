@@ -15,3 +15,15 @@
 .monkey {
     background-image: url('monkey.png');
     background-size: cover;
+}
+
+.rule {
+    color: rgb(70, 70, 83);
+    font-size: 1.2em;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
